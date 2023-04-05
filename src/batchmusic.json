@@ -1,0 +1,34 @@
+{
+  "Music": [
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Linkin Park"},
+                "SongTitle": {"S": "In The End"},
+                "AlbumTitle": {"S": "Hybrid Theory"},
+                "SongYear": {"S": "2000"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Linkin Park"},
+                "SongTitle": {"S": "Numb"},
+                "AlbumTitle": {"S": "Meteora"},
+                "SongYear": {"S": "2003"}
+              }
+          }
+      },
+      {
+          "PutRequest": {
+              "Item": {
+                "Artist": {"S": "Linkin Park"},
+                "SongTitle": {"S": "Faint"},
+                "AlbumTitle": {"S": "Meteora"},
+                "SongYear": {"S": "2003"}
+              }
+          }
+      }
+    ]
+}

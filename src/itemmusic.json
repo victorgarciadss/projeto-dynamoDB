@@ -1,0 +1,6 @@
+{
+  "Artist": {"S": "Linkin Park"},
+  "SongTitle": {"S": "What I've Done"},
+  "AlbumTitle": {"S": "Minutes to Midnight"},
+  "SongYear": {"S": "2007"}
+}
